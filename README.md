@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elsavillon
 - 👀 I’m interested in data journalism,
-- 🌱 I’m currently learning python, R, JavaScriot,
-- 💞️ I’m looking to collaborate on projects in ABC Paulista,
+- 🌱 I’m currently learning python, R, JavaScript,
+- 💞️ I’m looking to collaborate on projects in data journalism,
 - 📫 How to reach me elsavillon in social media,
 - 😄 Pronouns: she, her
 - ⚡ Fun fact: I'm yellow belt in Krav Magá. 
